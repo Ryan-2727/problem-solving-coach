@@ -1,0 +1,4 @@
+interface:
+  display_name: "Problem Solving Coach"
+  short_description: "大学理工科题目知识点分析、通用解题方法与举一反三练习"
+  default_prompt: "使用 $problem-solving-coach 分析这道题的知识点，重点讲解可迁移的解题方法。"
